@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?agemperline)
 
-[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=agemperline)](https://github.com/anuraghazra/github-readme-stats)
+[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=agemperline&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **agemperline/agemperline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
