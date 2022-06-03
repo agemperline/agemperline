@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?agemperline)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agemperline)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=agemperline&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
